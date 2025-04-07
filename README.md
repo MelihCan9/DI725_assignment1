@@ -66,3 +66,6 @@ This project uses Weights & Biases (wandb) to track experiments and visualize mo
 - [DI725-assignment1-from_scratch](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-assignment1-from_scratch?nw=nwusermchamurcu)
 - [DI725-assignment1-finetuned](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-assignment1-finetuned?nw=nwusermchamurcu)
 - [DI725-sentiment-benchmark](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-sentiment-benchmark)
+
+
+PS: Since model files size is bigger than 25MB the project does not include models itself.
