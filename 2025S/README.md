@@ -65,7 +65,6 @@ Fine-tuned GPT-2 significantly outperforms the from-scratch model, demonstrating
 Experiments are tracked with Weights & Biases (WANDB).
 
 **Project Dashboards:**
-- [DI725-assignment1-from_scratch](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-assignment1-from_scratch)
-- [DI725-assignment1-finetuned](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-assignment1-finetuned)
+- [DI725-assignment1-2025S](https://wandb.ai/mchamurcu-metu-middle-east-technical-university/DI725-assignment1-2025S?nw=nwusermchamurcu)
 
 > **Note:** Trained model files (.pt) are not included as they exceed 25MB.
